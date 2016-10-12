@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>  
+<Module> 
+  <ModulePrefs title="Flipboard" />  
+  <Content type="html"> 
+     <![CDATA[  
+<script src="https://cdn.flipboard.com/web/buttons/js/flbuttons.min.js" type="text/javascript"></script>
+
+<a data-flip-widget="mag" href="https://flipboard.com/@tandacreatives/diy%3A-building-furniture-and-fixtures-yourself!-8ib6johty">View my Flipboard Magazine.</a>
+
+
+     ]]>
+  </Content>  
+</Module>

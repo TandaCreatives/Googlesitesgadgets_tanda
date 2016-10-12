@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>  
+<Module> 
+  <ModulePrefs title="Pinterest-board" />  
+  <Content type="html"> 
+     <![CDATA[  
+      <script async defer src="//assets.pinterest.com/js/pinit.js"></script>  
+<a data-pin-do="embedBoard" data-pin-board-width="400" data-pin-scale-height="240" data-pin-scale-width="80" href="https://www.pinterest.com/tandacreatives/curtains-blinds-window-dressings-and-partitions/"></a>/a>
+
+     ]]>
+  </Content>  
+</Module>

@@ -1,0 +1,8 @@
+<Module>
+<ModulePrefs title="Hello World!"/>
+<Content type="html">
+<![CDATA[
+<script type="text/javascript" src="http://thinkshiftdesign.tumblr.com/js"></script>
+]]>
+</Content>
+</Module>

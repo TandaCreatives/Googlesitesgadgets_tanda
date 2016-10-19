@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>  
+<Module> 
+  <ModulePrefs title="Flipboard" />  
+  <Content type="html"> 
+     <![CDATA[  
+
+<a href="https://flipboard.com/@TSDConsulting?utm_campaign=widgets&utm_source=logo&utm_medium=web"><img 
+
+src="http://cdn.flipboard.com/badges/flipboard_mbsw.png" alt="Flipboard" /></a>
+
+     ]]>
+  </Content>  
+</Module>
